@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/sc2-cheat-bots-logo.png" alt="StarCraft II Cheat Bots Logo" width="220"/>
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=SC2+CHEAT+%2F+BOTS;OP+INFINITE+RESOURCES+2026;UNIT+SPAWNER+NO+CD;SPEED+HACK+MAP+REVEAL;AUTO+BUILD;UNDTECTED+FAST" alt="Typing SVG" />
 </p>
